@@ -2,9 +2,9 @@ c_link_demo_kt/.idea/
 c_link_demo_c/.idea/
 c_link_demo_c/cmake-build-debug/
 
-c_link_demo_c/.gradle
-c_link_demo_c/build/
-!c_link_demo_c/gradle/wrapper/gradle-wrapper.jar
+c_link_demo_kt/.gradle
+c_link_demo_kt/build/
+!c_link_demo_kt/gradle/wrapper/gradle-wrapper.jar
 
 ### VS Code ###
 .vscode/
