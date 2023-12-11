@@ -23,7 +23,7 @@ kotlin {
         }
     }
 
-    linuxX64("linuxX64") {
+    mingwX64("mingwX64") {
         config()
         compilations["main"].cinterops {
             @Suppress("LocalVariableName") val c_lib_demo by creating

@@ -3,6 +3,6 @@
 #compilerOpts.linux = -I/home/sel/repository/selcarpa/c_link_demo/c_link_demo_c
 #linkerOpts.linux = -L/home/sel/repository/selcarpa/c_link_demo/c_link_demo_c/cmake-build-debug -lc_link_demo_c
 
-headers = /home/sel/repository/selcarpa/c_link_demo/c_link_demo_c/library.h
+headers = C:/Users/at/repository/selcarpa/c_link_demo/c_link_demo_c/library.h
 staticLibraries = libc_link_demo_c.a
-libraryPaths = /home/sel/repository/selcarpa/c_link_demo/c_link_demo_c/cmake-build-debug
+libraryPaths = C:/Users/at/repository/selcarpa/c_link_demo/c_link_demo_c/cmake-build-debug
